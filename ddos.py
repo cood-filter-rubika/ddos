@@ -6,7 +6,7 @@ import random
 import re
 import urllib.request
 import os
-PlutoPhishing = "@elf_security_cyber"
+PlutoPhishing = "@CYROSIF"
 import sys
 
 while True:
@@ -20,9 +20,9 @@ while True:
 
 		print('''
 
-		___elf_security_cyber___
+		___maxtor___
 
-		___https://t.me/elf_security_cyber___
+		___https://t.me/Creator_max_tor___
 
 
 			''') # la grafica ci sta
@@ -52,7 +52,7 @@ while True:
 		print("$$$$$$$$$$")
 		print('''
 
-		DDOS SENDER BY elf_security_cyber !!!
+		DDOS SENDER BY MAXTOR !!!
 
 		''')
 
