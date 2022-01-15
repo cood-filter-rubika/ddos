@@ -18,7 +18,7 @@ pip install regex
 
 pip install os-sys
 
-https://github.com/cood-filter-rubika/ddos
+git clone https://github.com/cood-filter-rubika/ddos
 
 cd ddos
 
